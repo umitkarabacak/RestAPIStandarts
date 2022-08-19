@@ -1,4 +1,5 @@
 ﻿global using RestStandarts.API;
+global using RestStandarts.API.Models;
 
 namespace RestStandarts.API
 {
